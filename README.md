@@ -1,5 +1,7 @@
 # b2test
 
+https://600cauhoi.luandinh.com/
+
 ## Project setup
 ```
 yarn install
